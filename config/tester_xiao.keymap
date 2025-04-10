@@ -40,8 +40,8 @@ PIN_MACRO(pin10, <&kp N1 &kp N0>)
                         &pin6
                         &pin7
                         &pin8
-                        &pin9
-                        &bt BT_CLR>;
+                        &bt BT_CLR
+                        &pin10>;
         };
     };
 };
