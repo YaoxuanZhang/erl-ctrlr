@@ -24,7 +24,7 @@ PIN_MACRO(pin6, <&kp N6>)
 PIN_MACRO(pin7, <&kp N7>)
 PIN_MACRO(pin8, <&kp N8>)
 PIN_MACRO(pin9, <&kp N9>)
-PIN_MACRO(pin10, <&kp N1 &kp N0>)
+PIN_MACRO(pin10, <&bt BT_CLR>)
 
 / {
     keymap {
